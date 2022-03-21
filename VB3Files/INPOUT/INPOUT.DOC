@@ -1,0 +1,26 @@
+InpOut.DLL
+Copyright 1991 Jay Munro
+
+
+InpOut.DLL is a complete INP and OUT replacement for Visual Basic written
+in Assembler.  To use them, place the following declares in your
+global or general module.
+
+Declare Function Inp Lib "InpOut.DLL" (Byval Port%) As Integer
+Declare Sub Out Lib "InpOut.DLL" (Byval Port%,Byval Value%)
+
+Use just like their QuickBasic counterparts.
+Out  Port%,Value ---- or  X% = Inp (Port%)
+
+The complete .ASM source is contained in the InpOut.ASM file.
+Response, .DEF, and BAT files are also provided to illustrate the building
+of a .DLL.  The Windows SDK will be needed for the LIBW.LIB import library
+and the RC compilier.  Masm 5.1 or better may be used to reassemble the file.
+
+The Inp Procedure was used as an example in Jay Munro's Writting DLL's and
+Controls in Assembly language at the August 1991 Microsoft Developers
+Conference.
+
+The Demo InpoutDM.MAK  may be loaded into VB.  When run and the button
+is pressed, it makes a simple tone by toggling the speaker on and off.
+ 

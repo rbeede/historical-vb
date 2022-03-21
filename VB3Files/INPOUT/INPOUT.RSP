@@ -1,0 +1,1 @@
+InpOut.lib ,InpOut.DLL,NUL,LIBW /NOE /NOD /align:16 vbapi.lib,InpOut.DEF;

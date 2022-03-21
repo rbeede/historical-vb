@@ -1,0 +1,9 @@
+SOUND.FRM
+SOUND.BAS
+SOUND1.FRM
+ProjWinSize=148,391,248,193
+ProjWinShow=2
+IconForm="frmSound"
+Title="SOUND PLAYER"
+ExeName="SOUNDPLR.EXE"
+Path="C:\RODVBPGM\SOUNDPLR"

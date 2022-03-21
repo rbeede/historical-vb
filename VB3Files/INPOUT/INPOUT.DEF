@@ -1,0 +1,17 @@
+LIBRARY InpOut
+
+DESCRIPTION 'InpOut -- Demonstration assembler DLL'
+
+EXETYPE WINDOWS
+
+CODE MOVEABLE DISCARDABLE
+
+DATA MOVEABLE SINGLE
+
+HEAPSIZE 2048
+
+EXPORTS
+    WEP                         @1   RESIDENTNAME
+    Inp                         @2
+    Out                         @3
+    

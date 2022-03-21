@@ -1,0 +1,8 @@
+AVERAGER.FRM
+AVERAGER.BAS
+AVERAGE1.FRM
+ProjWinSize=152,400,248,215
+ProjWinShow=2
+IconForm="mainform"
+Title="AVERAGER"
+ExeName="AVERAGER.EXE"

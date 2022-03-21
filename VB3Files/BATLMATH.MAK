@@ -1,0 +1,9 @@
+BATLMATH.FRM
+BATLMATH.BAS
+BATLMAT2.FRM
+ProjWinSize=159,391,246,216
+ProjWinShow=2
+IconForm="frmMain"
+Title="BATTLE MATH"
+ExeName="BATLMATH.EXE"
+Path="..\EXEFILES"

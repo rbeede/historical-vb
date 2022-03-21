@@ -1,0 +1,15 @@
+Line 46: Class Spin.SpinButton of control Spinner3 was not a loaded control class.
+Line 57: Class Spin.SpinButton of control Spinner2 was not a loaded control class.
+Line 68: Class Spin.SpinButton of control Spinner1 was not a loaded control class.
+Line 52: The property name _Version in Spinner3 is invalid.
+Line 53: The property name _ExtentX in Spinner3 is invalid.
+Line 54: The property name _ExtentY in Spinner3 is invalid.
+Line 55: The property name _StockProps in Spinner3 is invalid.
+Line 63: The property name _Version in Spinner2 is invalid.
+Line 64: The property name _ExtentX in Spinner2 is invalid.
+Line 65: The property name _ExtentY in Spinner2 is invalid.
+Line 66: The property name _StockProps in Spinner2 is invalid.
+Line 74: The property name _Version in Spinner1 is invalid.
+Line 75: The property name _ExtentX in Spinner1 is invalid.
+Line 76: The property name _ExtentY in Spinner1 is invalid.
+Line 77: The property name _StockProps in Spinner1 is invalid.
